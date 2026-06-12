@@ -41,7 +41,7 @@
 | 角色 | 姓名 | 任务 | PR 链接 |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
-| 组长 | 请填写姓名 | 创建仓库、维护 `main`、审核 PR、组织真机运行 | ... |
+| 组长 | 唐志伟 | 创建仓库、维护 `main`、审核 PR、组织真机运行 | ... |
 | 组员 A | 刘炎松 | 修改 `groupName`、`projectTitle`、`projectSlogan` | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/2) |
 | 组员 A | 刘炎松 | 补全 `members` 中的小组成员姓名与分工 | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/2) |
 | 组员 B | 王梓桓 | 补充 `realDeviceChecks` 中的真机检查项 | [PR 链接](https://github.com/zhiwei121/innovation-week15-team-device/pull/3) |
@@ -61,7 +61,7 @@
 
 | 角色 | 姓名 | 修改位置 | 任务 |
 | --- | --- | --- | --- |
-| 组长 | 请填写姓名 | GitHub 仓库 | 创建仓库、维护 `main`、审核 PR、组织真机运行 |
+| 组长 | 唐志伟 | GitHub 仓库 | 创建仓库、维护 `main`、审核 PR、组织真机运行 |
 | 组员 A | 刘炎松 | `lib/main.dart` | 修改 `groupName`、`projectTitle`、`projectSlogan`；补全 `members` 中的小组成员姓名与分工 |
 | 组员 B | 王梓桓 | `lib/main.dart` | 补充 `realDeviceChecks` 中的真机检查项；补充 `evidenceRules`，提交真机照片说明 |
 | 组员 C | 李学海 | `lib/main.dart` | 运行 Flutter，连接 Android 手机进行真机测试 |
